@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1747053116842,
+  "timestamp": 1747053360603,
   "index": "https://brijeshdevloper.github.io/notificationcilent/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "https://brijeshdevloper.github.io/notificationcilent/favicon.ico",
         "https://brijeshdevloper.github.io/notificationcilent/index.html",
-        "https://brijeshdevloper.github.io/notificationcilent/main-23AIXFO5.js",
+        "https://brijeshdevloper.github.io/notificationcilent/main-DR7GZGPN.js",
         "https://brijeshdevloper.github.io/notificationcilent/manifest.webmanifest",
         "https://brijeshdevloper.github.io/notificationcilent/polyfills-FFHMD2TL.js",
         "https://brijeshdevloper.github.io/notificationcilent/styles-5INURTSO.css"
@@ -51,8 +51,8 @@
     "https://brijeshdevloper.github.io/notificationcilent/assets/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
     "https://brijeshdevloper.github.io/notificationcilent/assets/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
     "https://brijeshdevloper.github.io/notificationcilent/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
-    "https://brijeshdevloper.github.io/notificationcilent/index.html": "071bb5e23ca9f14456952f32259f703d511c0a9b",
-    "https://brijeshdevloper.github.io/notificationcilent/main-23AIXFO5.js": "7d4f485c92ef5e38a42be45b43a3119f2ee47487",
+    "https://brijeshdevloper.github.io/notificationcilent/index.html": "4d9c8774d55bb12caef1bd9bb16b53afcbeb6a7c",
+    "https://brijeshdevloper.github.io/notificationcilent/main-DR7GZGPN.js": "103755238e1dc2198f9b2edee54ad4b938dae520",
     "https://brijeshdevloper.github.io/notificationcilent/manifest.webmanifest": "605dfc89b1c053da2014a31b2816dfb196e3d3bc",
     "https://brijeshdevloper.github.io/notificationcilent/polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
     "https://brijeshdevloper.github.io/notificationcilent/styles-5INURTSO.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
